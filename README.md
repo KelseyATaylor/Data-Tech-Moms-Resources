@@ -5,6 +5,10 @@
 ## Websites
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp) - W3Schools.com
 
+[SQL Bolt](https://sqlbolt.com/) - Interactive SQL Tutorial
+
+[SQL Practice](https://www.sql-practice.com/) - Platform to practice SQL
+
 ## Courses
 
 ## Books
