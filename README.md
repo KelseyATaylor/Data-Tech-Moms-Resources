@@ -9,6 +9,8 @@
 
 [SQL Practice](https://www.sql-practice.com/) - Platform to practice SQL
 
+[Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (If you want to be fun competitive)
+
 ## Courses
 
 ## Books
@@ -22,5 +24,7 @@
 [Getting Started With Writing and Formatting On Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Github Docs
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
+[Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/) - What is the difference between a Data Analyst & Data Scientist?
 
 ## Other
