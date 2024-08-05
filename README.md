@@ -1,7 +1,7 @@
 # Tech Moms 2.0 | Data Analytics Resources
 
 ## Youtube
-[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s)
+[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
 
 ## Websites
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp) - W3Schools.com
