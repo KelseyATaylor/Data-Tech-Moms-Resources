@@ -3,6 +3,8 @@
 ## Youtube
 [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
 
+[Git vs GitHub in Under 60 Seconds](https://youtube.com/shorts/dVcNG7stnU4?si=rnllzKMjf-2quRc0)
+
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) - Youtube Channel
 
 ## Websites
