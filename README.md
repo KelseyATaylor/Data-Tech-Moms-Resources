@@ -32,6 +32,8 @@
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/) - What is the difference between a Data Analyst & Data Scientist?
 
+[How to Automate Excel Tasks with Python](https://www.freecodecamp.org/news/automate-excel-tasks-with-python/)
+
 ## Other
 ### AI Resources
 
