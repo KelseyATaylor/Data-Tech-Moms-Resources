@@ -16,6 +16,8 @@
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (If you want to be fun competitive)
 
+[Kaggle](Kaggle.com/datasets) - Datasets for personal practice
+
 ## Courses
 
 ## Books
