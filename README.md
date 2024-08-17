@@ -45,7 +45,13 @@
 
 [Google Gemini](https://gemini.google.com/app?utm_source=google&utm_medium=cpc&utm_campaign=2024enUS_gemfeb&gad_source=1&gclid=Cj0KCQjwtZK1BhDuARIsAAy2VztUvM4gz2_x7K47fHcD3tlEzrimMrRS_2rx9vOzCm49k6zfibCDnnwaApQCEALw_wcB)
 
+## LinkedIn - People to follow
 
+[Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) - Sr. Data Analyst, DA Courses, Tech Tips, Interview Tips
+
+[Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - "Alex the Analyst" on Youtube, Helpful SQL Tips, Interview Tips 
+
+[Elijah Butler](https://www.linkedin.com/in/elijahbutler/) - Sr. Data Analyst, Top Data Viz Voice, Posts about free data analytics resources
 
 
 
