@@ -23,6 +23,7 @@
 [Kaggle](Kaggle.com/datasets) - Datasets for personal practice
 
 ## Courses
+[Data Camp](https://www.datacamp.com/)
 
 ## Books
 
