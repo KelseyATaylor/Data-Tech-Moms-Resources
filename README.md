@@ -23,8 +23,8 @@
 [Kaggle](Kaggle.com/datasets) - Datasets for personal practice
 
 ## Courses
-Data Camp - [Data Camp](https://www.datacamp.com/)
- - [Excel Fundamentals Track](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals)
+Data Camp - [here](https://www.datacamp.com/)
+ - Excel Fundamentals - [Track](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals)
    * [Introduction to Excel](https://app.datacamp.com/learn/courses/introduction-to-excel)
    * [Data Preparation in Excel](https://app.datacamp.com/learn/courses/data-preparation-in-excel)
    * [Data Visualization in Excel](https://app.datacamp.com/learn/courses/data-visualization-in-excel)
