@@ -6,6 +6,10 @@
 [Git vs GitHub in Under 60 Seconds](https://youtube.com/shorts/dVcNG7stnU4?si=rnllzKMjf-2quRc0)
 
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) - Youtube Channel
+  * [Excel Tutorials for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+  * [MySQL Tutorial Basics](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
+  * [Intermediate MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
+  * [Advanced MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
 
 ## Websites
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp) - W3Schools.com
