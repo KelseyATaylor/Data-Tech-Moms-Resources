@@ -48,6 +48,7 @@ Data Camp - [here](https://www.datacamp.com/)
 [How to Automate Excel Tasks with Python](https://www.freecodecamp.org/news/automate-excel-tasks-with-python/)
 
 ## Other
+
 ### AI Resources
 
 [ChatGPT](https://chatgpt.com/)
