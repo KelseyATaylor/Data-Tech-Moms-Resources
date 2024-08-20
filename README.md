@@ -65,5 +65,7 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Elijah Butler](https://www.linkedin.com/in/elijahbutler/) - Sr. Data Analyst, Top Data Viz Voice, Posts about free data analytics resources
 
+[Avery Smith](https://www.linkedin.com/in/averyjsmith/) - Posts about Data Analytics, Job tips & tricks
+
 
 
