@@ -29,7 +29,9 @@ Data Camp - [here](https://www.datacamp.com/)
    * [Data Preparation in Excel](https://app.datacamp.com/learn/courses/data-preparation-in-excel)
    * [Data Visualization in Excel](https://app.datacamp.com/learn/courses/data-visualization-in-excel)
    * [Data Analysis in Excel](https://app.datacamp.com/learn/courses/data-analysis-in-excel)
-   * [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)  
+   * [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)
+  
+  [Kaggle Learn](https://www.kaggle.com/learn)
 
 ## Books
 
