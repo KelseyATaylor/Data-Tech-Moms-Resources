@@ -1,17 +1,12 @@
 # Tech Moms 2.0 | Data Analytics Resources
 
-## Youtube
-[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
-
-[Git vs GitHub in Under 60 Seconds](https://youtube.com/shorts/dVcNG7stnU4?si=rnllzKMjf-2quRc0)
-
+## SQL
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) - Youtube Channel
   * [Excel Tutorials for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
   * [MySQL Tutorial Basics](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
   * [Intermediate MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
   * [Advanced MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
 
-## Websites
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp) - W3Schools.com
 
 [SQL Bolt](https://sqlbolt.com/) - Interactive SQL Tutorial
@@ -20,9 +15,8 @@
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (If you want to be fun competitive)
 
-[Kaggle](Kaggle.com/datasets) - Datasets for personal practice
-
-## Courses
+## Visualization Tools
+### Excel
 Data Camp - [here](https://www.datacamp.com/)
  - Excel Fundamentals - [Track](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals)
    * [Introduction to Excel](https://app.datacamp.com/learn/courses/introduction-to-excel)
@@ -30,6 +24,19 @@ Data Camp - [here](https://www.datacamp.com/)
    * [Data Visualization in Excel](https://app.datacamp.com/learn/courses/data-visualization-in-excel)
    * [Data Analysis in Excel](https://app.datacamp.com/learn/courses/data-analysis-in-excel)
    * [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)
+
+ Alex the Analyst - [Excel for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+
+ ### Power BI
+ Alex the Analyst - [Power BI Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
+
+ ### Tableau
+ Alex the Analyst - [Tableau Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC)
+
+## Data Collection
+
+
+  [Kaggle](Kaggle.com/datasets) - Datasets for personal practice
   
   [Kaggle Learn](https://www.kaggle.com/learn)
 
@@ -59,7 +66,12 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Google Gemini](https://gemini.google.com/app?utm_source=google&utm_medium=cpc&utm_campaign=2024enUS_gemfeb&gad_source=1&gclid=Cj0KCQjwtZK1BhDuARIsAAy2VztUvM4gz2_x7K47fHcD3tlEzrimMrRS_2rx9vOzCm49k6zfibCDnnwaApQCEALw_wcB)
 
-## LinkedIn - People to follow
+### Git & Github
+[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
+
+[Git vs GitHub in Under 60 Seconds](https://youtube.com/shorts/dVcNG7stnU4?si=rnllzKMjf-2quRc0)
+
+### LinkedIn - People to follow
 
 [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) - Sr. Data Analyst, DA Courses, Tech Tips, Interview Tips
 
@@ -69,8 +81,6 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Avery Smith](https://www.linkedin.com/in/averyjsmith/) - Posts about Data Analytics, Job tips & tricks
 
-Make a change
-This is a change
 
 
 
