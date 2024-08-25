@@ -2,7 +2,7 @@
 
 ## SQL
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) - Youtube Channel
-  * [Excel Tutorials for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+  
   * [MySQL Tutorial Basics](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
   * [Intermediate MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
   * [Advanced MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
@@ -26,6 +26,8 @@ Data Camp - [here](https://www.datacamp.com/)
    * [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)
 
  Alex the Analyst - [Excel for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+
+ * [Excel Tutorials for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
 
  ### Power BI
  Alex the Analyst - [Power BI Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
