@@ -73,6 +73,8 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Git vs GitHub in Under 60 Seconds](https://youtube.com/shorts/dVcNG7stnU4?si=rnllzKMjf-2quRc0)
 
+[Git Short](https://youtube.com/shorts/u70t1g0B-pA?si=RIpgio98BhXyur5U)
+
 ### LinkedIn - People to follow
 
 [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) - Sr. Data Analyst, DA Courses, Tech Tips, Interview Tips
