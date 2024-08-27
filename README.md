@@ -42,6 +42,10 @@ Data Camp - [here](https://www.datacamp.com/)
   
   [Kaggle Learn](https://www.kaggle.com/learn)
 
+## Courses
+
+[Relational Databases Certification](https://www.freecodecamp.org/learn/relational-database/)
+
 ## Books
 
 *[Becoming a Data Head](https://www.amazon.com/Becoming-Data-Head-Understand-Statistics/dp/1119741742)* - by Alex J. Gutman, Jordan Goldmeier
@@ -85,7 +89,6 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Avery Smith](https://www.linkedin.com/in/averyjsmith/) - Posts about Data Analytics, Job tips & tricks
 
-This is an edit
 
 
 
