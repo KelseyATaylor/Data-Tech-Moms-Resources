@@ -81,6 +81,7 @@ Data Camp - [here](https://www.datacamp.com/)
 
 ### LinkedIn - People to follow
 
+
 [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) - Sr. Data Analyst, DA Courses, Tech Tips, Interview Tips
 
 [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - "Alex the Analyst" on Youtube, Helpful SQL Tips, Interview Tips 
