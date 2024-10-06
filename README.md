@@ -92,6 +92,7 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Data with Kelsey]
 this needs to happen
+need to upload excel vids
 
 
 
