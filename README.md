@@ -24,6 +24,7 @@ Data Camp - [here](https://www.datacamp.com/)
    * [Data Visualization in Excel](https://app.datacamp.com/learn/courses/data-visualization-in-excel)
    * [Data Analysis in Excel](https://app.datacamp.com/learn/courses/data-analysis-in-excel)
    * [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)
+   * [Data Visualization Cheat Sheet](https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet)
 
  Alex the Analyst - [Excel for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
 
