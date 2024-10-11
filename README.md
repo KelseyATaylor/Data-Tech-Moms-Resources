@@ -13,6 +13,8 @@
 
 [SQL Practice](https://www.sql-practice.com/) - Platform to practice SQL
 
+[SQL Murder Mystery](https://mystery.knightlab.com/)
+
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (If you want to be fun competitive)
 
 ## Visualization Tools
