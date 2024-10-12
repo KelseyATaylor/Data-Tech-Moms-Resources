@@ -93,7 +93,7 @@ Data Camp - [here](https://www.datacamp.com/)
 
 [Avery Smith](https://www.linkedin.com/in/averyjsmith/) - Posts about Data Analytics, Job tips & tricks
 
-[Data with Kelsey]youtube upload excel
+[Data with Kelsey]youtube upload excel for realz
 
 
 
