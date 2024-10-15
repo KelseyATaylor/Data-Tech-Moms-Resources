@@ -6,6 +6,7 @@
   * [MySQL Tutorial Basics](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
   * [Intermediate MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
   * [Advanced MySQL Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
+  * [Analyst Builder](https://www.analystbuilder.com/)
 
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp) - W3Schools.com
 
