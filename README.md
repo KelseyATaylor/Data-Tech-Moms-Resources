@@ -39,6 +39,9 @@ Data Camp - [here](https://www.datacamp.com/)
  ### Tableau
  Alex the Analyst - [Tableau Tutorial Series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC)
 
+ ### Google Sheets
+ [Alyson the Analyst Google Sheet Tutorial](https://www.youtube.com/watch?v=-8vSXTN5RJ8&list=PLvJhtbaWAuW1SEDNicv-BaJ7vq23TJ8l8)
+
 ## Data Collection
 
 
